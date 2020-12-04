@@ -64,7 +64,7 @@ body {
   padding: 0;
   overscroll-behavior: none;
   /*background-image: url("./resources/background.jpg");*/
-  background-color: aqua;
+  background-color: rgb(68, 0, 255);
   background-attachment: fixed;
   background-repeat: no-repeat;
 }
