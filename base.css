@@ -6,6 +6,25 @@
   left: 0;
   z-index: -1;
 }
+//
+model-viewer {
+  height: 100vh;
+  width: 100%;
+  margin: 0 auto;
+  border: 0;
+  background-color: black;
+}
+#container {
+  height: 100vh;
+  width: 100%;
+  margin: 0 auto;
+  border: 0;
+  background-color: black;
+}
+//
+
+
+
 
 .row {
   display: flex;
